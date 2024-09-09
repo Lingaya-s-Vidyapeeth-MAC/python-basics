@@ -75,3 +75,6 @@ print(type(ln))
 #dictionary
 print(type(d1))
 ```
+
+## BlackBoard
+![Untitled board](https://github.com/user-attachments/assets/3020398b-aa82-450d-becc-8da90e68afdf)
